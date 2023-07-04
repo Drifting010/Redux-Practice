@@ -18,6 +18,10 @@ cd BlogProjectWithAxiosAndReduxThunk
 ```
 npm install
 ```
+#### Initiate project
+```
+npm start
+```
 ### Blog Project with RTK Query
 #### Enter the project directory
 ```
@@ -30,4 +34,9 @@ npm install
 #### initiate JSON Server
 ```
 json-server --watch data/db.json --port 3500
+```
+#### Initiate project
+open a new terminal and enter the following command
+```
+npm start
 ```
