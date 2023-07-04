@@ -10,11 +10,19 @@ In the "Blog Project With RTK Query" folder, Redux Toolkit Query is used as data
 
 ## Initiate Project  
 ### Blog Project With Axios and Redux Thunk
+#### Enter the project directory
+```
+cd BlogProjectWithAxiosAndReduxThunk
+```
 #### Install dependency
 ```
 npm install
 ```
 ### Blog Project with RTK Query
+#### Enter the project directory
+```
+cd BlogProjectWithRTKQuery
+```
 #### Install dependency
 ```
 npm install
